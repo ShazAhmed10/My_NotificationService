@@ -1,4 +1,4 @@
-package com.shazahmed.notificationservice.services.notification;
+package com.shazahmed.notificationservice.kafkaconsumers.paymentservice;
 
 import org.springframework.kafka.annotation.KafkaListener;
 
